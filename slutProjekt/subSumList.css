@@ -1,0 +1,28 @@
+body {
+	background-image:url(fp_background.jpg);
+	width:100%;
+
+}
+
+#title{
+text-align:center;
+}
+
+.summaries {
+	display:block;
+	margin:auto;
+	list-style-type:none;
+	border:2px solid rgba(33, 68, 72, 0.59);
+	background-color: #93ecdd;
+	width: 200px;
+	color: rgba(0, 0, 0, 0.55);
+	text-align:center;
+	font: bold 20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+a:visited, a {
+	text-decoration:none;
+	color:#1b3732;
+	
+}

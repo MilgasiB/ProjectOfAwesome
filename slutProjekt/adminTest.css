@@ -1,0 +1,30 @@
+body {
+	background-image:url(fp_background.jpg);
+	width:100%;
+
+}
+
+
+#username, #password, #login {
+	text-align:center;
+	display:block;
+	width:160px;
+	margin:auto;
+	border:2px solid rgba(33, 68, 72, 0.59);
+	background-color: #93ecdd;
+	color: rgba(0, 0, 0, 0.55);
+	font: bold 20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+
+}
+
+a:visited, a {
+	text-decoration:none;
+	color:#1b3732;
+	
+}
+fieldset{
+	width:100%;
+	text-align:center;
+	border:none;
+
+}

@@ -1,0 +1,48 @@
+body {
+	background-image:url(fp_background.jpg);
+	width:100%;
+
+}
+
+#title {
+	text-align:center;
+
+	
+}
+
+#dropSubjects, #dropSummaries{
+	border:2px solid rgba(33, 68, 72, 0.59);
+	background-color: #ffffff;
+	color: rgba(0, 0, 0, 0.55);
+	text-align:center;
+	width:250px;
+	margin:auto;
+	margin-top: 15px;
+	font: bold 20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	
+}
+#dropSubjects {
+	margin-top: 40px;
+}
+a:visited, a {
+	text-decoration:none;
+	color:#1b3732;
+	
+}
+
+.div1 {
+	margin-left: 125px;
+	width:50%;
+	display:table;
+}
+.summaryList{
+	display:table-cell;
+	vertical-align: top;
+	text-align:right;
+	width:50%;
+}
+
+#container
+{
+	margin-left:25%;
+}

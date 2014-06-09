@@ -1,0 +1,59 @@
+body {
+	background-image:url(fp_background.jpg);
+	width:100%;
+
+}
+
+
+textarea {
+	width:300px;
+	height:70px;
+}
+
+a:visited, a {
+	text-decoration:none;
+	color:#1b3732;
+	
+}
+
+#home {
+	text-align:center;
+	display:block;
+	width:75px;
+	margin:auto;
+	border:2px solid rgba(33, 68, 72, 0.59);
+	background-color: #93ecdd;
+	color: rgba(0, 0, 0, 0.55);
+	font: bold 20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+
+}
+
+#contentContainer {
+	margin:auto;
+	width:500px;
+	text-align:left;
+	word-wrap:break-word;
+	background-color:#ffffff;
+	border: 1px solid black;
+}
+#commentContainer {
+	margin:auto;
+	text-align:left;
+	width:300px;
+	word-wrap:break-word;
+	background-color:#ffffff;
+	border:1px solid black;
+	
+}
+#headline{
+	border:2px solid rgba(33, 68, 72, 0.59);
+	background-color: #93ecdd;
+	width:75px;
+	margin:auto;
+}
+#test {
+	width:100%;
+	text-align:center;
+	border:none;
+
+}

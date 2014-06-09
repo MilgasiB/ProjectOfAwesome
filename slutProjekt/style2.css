@@ -1,0 +1,71 @@
+body {
+	background-image:url(fp_background.jpg);
+	width:100%;
+
+}
+
+#title {
+	text-align:center;
+
+	
+}
+.inlineblock {
+	display:table-cell;
+}
+
+.subjectList{
+	margin: 0px;
+	list-style-type:none;
+	padding: 0px;
+}
+
+.subjects {
+	border:2px solid rgba(33, 68, 72, 0.59);
+	background-color: #93ecdd;
+	color: rgba(0, 0, 0, 0.55);
+	text-align:center;
+	font: bold 20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.summaries {
+	border:2px solid rgba(33, 68, 72, 0.59);
+	background-color: #93ecdd;
+	color: rgba(0, 0, 0, 0.55);
+	text-align:center;
+	font: bold 20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+
+#addSubjects, #addSummaries, #adminMode  {
+	border:2px solid rgba(33, 68, 72, 0.59);
+	background-color: #ffffff;
+	color: rgba(0, 0, 0, 0.55);
+	text-align:center;
+	font: bold 20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	
+}
+#addSubjects {
+	margin-top: 40px;
+}
+a:visited, a {
+	text-decoration:none;
+	color:#1b3732;
+	
+}
+
+.div1 {
+	margin-left: 125px;
+	width:50%;
+	display:table;
+}
+.summaryList{
+	display:table-cell;
+	vertical-align: top;
+	text-align:right;
+	width:50%;
+}
+
+#container
+{
+	margin-left:25%;
+}
